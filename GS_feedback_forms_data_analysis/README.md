@@ -68,4 +68,4 @@ By following these steps, you'll be able to analyze the data and create visualiz
 
 ## Contact Information
 
-For questions, issues, or contributions, please feel free to reach out to TU Delft Library -- Research Data Services Training Team [rdmtraining-lib\@tudelft.nl](mailto:rdmtraining-lib@tudelft.nl).
+For questions, issues, or contributions, please feel free to reach out to TU Delft Library -- Research Data and Software Training Team [rdmtraining-lib\@tudelft.nl](mailto:rdmtraining-lib@tudelft.nl).
